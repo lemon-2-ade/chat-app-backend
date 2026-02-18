@@ -1,0 +1,9 @@
+flask>=3.0
+flask-pymongo>=3.0
+flask-jwt-extended>=4.0
+flask-socketio>=5.0
+python-dotenv>=1.0
+bcrypt>=4.0
+pymongo>=4.0
+firebase-admin>=6.0
+requests>=2.25
